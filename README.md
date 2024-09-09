@@ -16,3 +16,5 @@ Need Help?
 Check out the Contributing Guidelines and Code of Conduct to get started. We’re here to support you!
 
 **Let’s build something great together!** 🚀
+
+FOR LICENSES: https://choosealicense.com/licenses/mit/
